@@ -21,5 +21,5 @@ http://mysite.com/brazzed.php?url=http://i.imgur.com/p5sUP.jpg
 
 ```PHP
 $_GET['url'] // Image URL
-$_GET['position'] String, "topleft" || "topright" || "bottomleft" || "bottomright"
+$_GET['position'] // String, "topleft" || "topright" || "bottomleft" || "bottomright"
 ```
