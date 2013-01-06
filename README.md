@@ -1,7 +1,7 @@
 Brazzed
 =======
 
-Add the Brazzers logo to any image for intense thought.
+Add the Brazzers logo to any image for intensity...
 
 
 ## Take this
